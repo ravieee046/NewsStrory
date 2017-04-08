@@ -3,4 +3,13 @@
     <color name="colorPrimary">#303F9F</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBlack">#000000</color>
+    <color name="colorRed">#ff0000</color>
+
+    <color name="colorBooks">#0abf00</color>
+    <color name="colorSport">#a19905</color>
+    <color name="colorTechnology">#010b79</color>
+    <color name="colorCrosswords">#027683</color>
+    <color name="colorTelevision">#71016f</color>
+    <color name="colorStage">#863f01</color>
 </resources>
